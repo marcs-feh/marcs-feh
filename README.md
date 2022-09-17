@@ -13,7 +13,8 @@ My most used/loved languages are:
 - Python
 
 Tools I use:
-- Go : The whole language has the essentials.
-- C/C++ : Clang with AddressSanitatizer and clangd as LSP, `lldb` as debugger,
+
+- C/C++ : Clang with AddressSanitatizer and clangd as LSP, `lldb` for debugger.
+- Go : The language already comes with the essentials.
 - Editor : Neovim, I can tolerate most editors if they have vim-keys, but Neovim is by far my favorite.
 - Desktop : Mostly suckless programs, check `marcs-feh/sukless`.
