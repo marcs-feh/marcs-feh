@@ -4,12 +4,13 @@
 
 I have a personal appreciation for CSP-style concurrency and minimalist software.
 
-I'm something of a Libre software simp. Every software I create as a hobby is Libre, usually under a permissive license. The main target of my programs is POSIX systems, however Windows ports are never out of question if they are not super difficult to implement. I don't work on proprietary systems unless I'm being paid.
+Every software I create as a hobby is Libre, usually under a permissive license. The main target of my programs is POSIX systems, however Windows ports are never out of question if they are not super difficult to implement. I don't work on proprietary systems unless paid.
 
 My most used/loved languages are:
-- C (C17, ANSI C if I *really* have to)
+
 - Go
 - Lua
+- C
 - Python
 
 Tools I use:
