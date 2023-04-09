@@ -1,7 +1,5 @@
 # marcs-feh
 
-> "*He who is unfit to serve his fellow citizen, seeks to rule them*"
-
 Every software I create as a hobby is Libre, usually under a permissive license. The main target of my programs is POSIX systems, however Windows ports are never out of question if they are not super difficult to implement.
 
 Tools I use:
