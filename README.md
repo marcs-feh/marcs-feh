@@ -12,4 +12,4 @@ Tools I use:
 - Editor : Neovim, I can tolerate most editors if they have vim-keys, but Neovim is by far my favorite, check `marcs-feh/nvim_config`
 - Desktop : Mostly minimalist programs, check `marcs-feh/sukless` for my X11 setup or `marcs-feh/dotfiles` for Wayland and general configs.
 
-NOTE: Yes, I do write C/C++ just to annoy programmers of both languages
+NOTE: Yes, I do say "C/C++" just to annoy programmers of both languages
