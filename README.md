@@ -8,6 +8,7 @@ Tools I use:
 
 - C/C++ : Clang with AddressSanitizer and clangd as LSP, `lldb` for debugger.
 - Go : The language already comes with all the essentials.
+- Scripting : Python and Lua for anything that requires a real programming language, POSIX shell for basic stuff.
 - Editor : Neovim, I can tolerate most editors if they have vim-keys, but Neovim is by far my favorite, check `marcs-feh/nvim_config`
 - Desktop : Mostly minimalist programs, check `marcs-feh/sukless` for my X11 setup or `marcs-feh/dotfiles` for Wayland and general configs.
 
