@@ -1,5 +1,3 @@
-> NOTE: While I still use GitHub for collaboration, I mostly put my newer projects on GitLab (marcs-feh1)
-
 # marcs-feh
 
 > *We do not fear what lies beneath, we can never dig too deep*
